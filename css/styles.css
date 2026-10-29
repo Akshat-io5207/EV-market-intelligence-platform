@@ -1,0 +1,110 @@
+/* Global EV Intelligence Platform Custom Styles */
+:root {
+  --primary: #2563eb;
+  --primary-hover: #1d4ed8;
+  --success: #10b981;
+  --warning: #f59e0b;
+  --danger: #ef4444;
+  --purple: #8b5cf6;
+  --teal: #14b8a6;
+}
+
+/* Glassmorphism Card Effects */
+.glass-panel {
+  background: var(--card, #ffffff);
+  border: 1px solid var(--border, #e2e8f0);
+  box-shadow: 0 4px 20px -2px rgba(0, 0, 0, 0.05);
+  transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.glass-panel:hover {
+  box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.08);
+}
+
+/* Custom Scrollbars */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: #cbd5e1;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #94a3b8;
+}
+
+/* Tab Navigation Styling */
+.nav-tab {
+  position: relative;
+  transition: all 0.2s ease;
+}
+
+.nav-tab.active {
+  color: var(--primary, #2563eb);
+  font-weight: 600;
+  border-bottom: 2px solid var(--primary, #2563eb);
+}
+
+.nav-tab:not(.active) {
+  opacity: 0.75;
+}
+
+.nav-tab:not(.active):hover {
+  opacity: 1;
+}
+
+/* SVG Chart Animations and Tooltips */
+.chart-bar {
+  transition: height 0.5s cubic-bezier(0.16, 1, 0.3, 1), y 0.5s cubic-bezier(0.16, 1, 0.3, 1), opacity 0.2s ease;
+}
+
+.chart-bar:hover {
+  opacity: 0.85;
+  cursor: pointer;
+}
+
+.chart-circle {
+  transition: stroke-dasharray 0.8s ease, stroke-dashoffset 0.8s ease;
+}
+
+/* Badges */
+.badge-lfp {
+  background-color: #ecfdf5;
+  color: #065f46;
+  border: 1px solid #a7f3d0;
+}
+.badge-nmc {
+  background-color: #eff6ff;
+  color: #1e40af;
+  border: 1px solid #bfdbfe;
+}
+.badge-nca {
+  background-color: #f5f3ff;
+  color: #5b21b6;
+  border: 1px solid #ddd6fe;
+}
+.badge-sodium {
+  background-color: #fffbeb;
+  color: #92400e;
+  border: 1px solid #fde68a;
+}
+.badge-solid {
+  background-color: #fdf2f8;
+  color: #9d174d;
+  border: 1px solid #fbcfe8;
+}
+
+/* Simulator range sliders */
+input[type=range] {
+  accent-color: #2563eb;
+}
+
+/* Responsive Table */
+.data-table-container {
+  overflow-x: auto;
+  max-height: 540px;
+}

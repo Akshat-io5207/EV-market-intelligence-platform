@@ -1,0 +1,46 @@
+Model,Manufacturer,Category,Segment,Battery_Tech,Battery_Capacity_kWh,Range_km,Efficiency_kWh_100km,Charge_Time_10_80_min,Base_Price_USD,Sales_2025_Units,Revenue_2025_USD_M,Sales_Growth_YoY_Pct,Customer_Rating,NPS,Manufacturing_Country,CO2_Embodied_kg,CO2_Saved_Ton_Yr
+Model Y,Tesla,SUV,Premium,NMC,75.0,533,15.5,25,44990,1285000,57812,14.2,4.7,68,USA,11200,4.60
+Model 3 (Highland),Tesla,Sedan,Mass-Premium,LFP,60.0,513,13.2,26,38990,610000,23783,8.5,4.6,64,China,9400,4.40
+Song Plus EV / Seal U,BYD,SUV,Mass,LFP,71.8,520,15.1,28,27500,485000,13337,28.4,4.6,62,China,8900,4.50
+Dolphin,BYD,Hatchback,Entry-Mass,LFP,44.9,427,12.8,29,18900,395000,7465,22.1,4.5,59,China,6400,3.80
+Seagull / Dolphin Mini,BYD,Hatchback,Entry,Sodium-Ion,38.0,305,11.5,30,11500,440000,5060,48.6,4.4,55,China,4800,3.20
+Han EV Flagship,BYD,Sedan,Premium,LFP,85.4,610,15.6,30,36000,235000,8460,12.0,4.7,65,China,10500,4.80
+ID.4 Pro,Volkswagen Group,SUV,Mass-Premium,NMC,77.0,535,16.2,28,43900,215000,9438,7.4,4.2,48,Germany,11800,4.50
+ID.3 Pure,Volkswagen Group,Hatchback,Mass,LFP,52.0,388,14.8,32,32500,165000,5362,11.2,4.1,45,Germany,8200,3.70
+Ioniq 5 AWD Long Range,Hyundai-Kia,SUV,Mass-Premium,NMC,84.0,570,16.5,18,46500,178000,8277,19.3,4.7,71,South Korea,11900,4.70
+EV6 GT-Line,Hyundai-Kia,SUV,Premium,NMC,77.4,528,16.3,18,48900,132000,6454,15.6,4.6,67,South Korea,11400,4.50
+Ioniq 6 Streamliner,Hyundai-Kia,Sedan,Mass-Premium,NMC,77.4,614,13.9,18,43500,92000,4002,21.0,4.5,63,South Korea,11000,4.90
+EX30 Compact,Geely-Volvo,SUV,Premium,LFP,51.0,344,15.7,26,35900,145000,5205,65.8,4.5,60,China,7600,3.60
+Zeekr 001 FR / Long Range,Geely-Volvo,Sedan,Luxury,Solid-State,100.0,750,15.2,15,52000,84000,4368,42.1,4.8,74,China,12500,5.40
+SU7 Max,Xiaomi Auto,Sedan,Premium,NMC,101.0,800,14.1,19,42000,150000,6300,95.0,4.8,76,China,13100,5.80
+i4 eDrive40 Gran Coupe,BMW Group,Sedan,Luxury,NMC,83.9,590,16.1,30,57900,115000,6658,18.5,4.6,66,Germany,12800,4.90
+iX3 / Neue Klasse SUV,BMW Group,SUV,Luxury,NMC,80.0,520,17.5,32,62000,98000,6076,14.0,4.5,61,Germany,12600,4.50
+EQE 350+ SUV,Mercedes-Benz,SUV,Luxury,NCA,90.6,590,17.8,31,77900,74000,5764,9.2,4.5,58,Germany,14200,4.80
+MG4 EV Standard,SAIC Motor,Hatchback,Mass,LFP,51.0,350,16.0,35,28500,155000,4417,24.3,4.4,54,China,7400,3.60
+Peugeot e-208 / e-2008,Stellantis,Hatchback,Mass,NMC,54.0,410,14.5,30,33900,142000,4813,8.0,4.2,46,Spain,8600,3.70
+Fiat 500e,Stellantis,Hatchback,Entry-Mass,NMC,42.0,320,14.0,35,29000,88000,2552,-4.2,4.1,42,Italy,6900,3.10
+Mustang Mach-E Extended,Ford,SUV,Mass-Premium,NMC,91.0,490,19.5,36,49500,96000,4752,6.8,4.4,56,Mexico,13800,4.30
+R1S Adventure SUV,Rivian,SUV,Luxury,NCA,135.0,643,23.5,38,75900,46000,3491,28.5,4.7,73,USA,19800,5.10
+R1T Quad-Motor Truck,Rivian,Truck,Commercial-Luxury,NCA,141.0,610,25.0,40,79000,38000,3002,14.5,4.7,72,USA,20900,6.20
+Cybertruck All-Wheel Drive,Tesla,Truck,Commercial-Luxury,NMC,123.0,547,24.2,34,79990,65000,5199,85.0,4.3,51,USA,18500,6.10
+F-150 Lightning Pro/XLT,Ford,Truck,Commercial,NMC,131.0,515,27.2,41,54990,42000,2309,11.2,4.4,57,USA,19400,6.40
+Semi Long Range (Class 8),Tesla,Truck,Commercial,NMC,750.0,805,105.0,30,250000,3800,950,140.0,4.6,68,USA,82000,85.00
+FH Electric Heavy Duty,Volvo Trucks,Truck,Commercial,NMC,540.0,380,125.0,90,320000,5200,1664,48.0,4.7,70,Sweden,61000,92.00
+eActros 600 Long-Haul,Mercedes-Benz Trucks,Truck,Commercial,LFP,621.0,500,118.0,30,340000,4100,1394,110.0,4.8,75,Germany,58000,94.00
+K9 Pure Electric City Bus,BYD,Bus,Commercial,LFP,422.0,370,95.0,120,420000,14200,5964,26.5,4.6,65,China,44000,72.00
+E12 Ultra Clean City Bus,Yutong Bus,Bus,Commercial,LFP,422.0,385,92.0,110,395000,16800,6636,21.0,4.6,64,China,42500,74.50
+7900 Electric Articulated,Volvo Group,Bus,Commercial,NMC,560.0,320,135.0,45,580000,3200,1856,18.0,4.5,62,Sweden,63000,88.00
+Urbino 12 Electric,Solaris,Bus,Commercial,LFP,520.0,360,110.0,60,475000,4100,1947,24.0,4.5,63,Poland,51000,76.00
+S1 Pro Gen 2,Ola Electric,Two-Wheeler,Mass,NMC,4.0,180,2.4,70,1650,360000,594,34.0,4.1,48,India,490,0.85
+450 Apex / 450X,Ather Energy,Two-Wheeler,Premium,NMC,3.7,150,2.5,45,1950,145000,282,29.5,4.7,73,India,470,0.82
+Nexon EV Max / 45,Tata Motors,SUV,Mass,LFP,45.0,489,11.8,40,18500,78000,1443,31.0,4.4,58,India,6300,3.60
+MQi GT EVO,NIU Technologies,Two-Wheeler,Mass-Premium,LFP,3.74,100,2.8,80,3800,210000,798,18.0,4.3,52,China,440,0.78
+SR/F Naked Street,Zero Motorcycles,Two-Wheeler,Luxury,NMC,17.3,272,6.2,60,20495,12500,256,16.5,4.7,69,USA,2100,1.25
+EM1 e: Urban Moped,Honda,Two-Wheeler,Entry,LFP,1.47,48,2.2,95,2400,185000,444,54.0,4.3,50,Japan,210,0.52
+ES6 Smart SUV,NIO,SUV,Luxury,Solid-State,150.0,930,17.2,18,56000,82000,4592,36.5,4.9,79,China,16500,6.00
+G6 Ultra Smart Coupe SUV,XPeng,SUV,Mass-Premium,NMC,87.5,570,14.8,16,33000,115000,3795,52.0,4.6,66,China,11500,4.80
+e-tron GT Quattro,Volkswagen Group,Sedan,Luxury,NMC,93.4,488,19.9,21,106500,18500,1970,5.4,4.6,64,Germany,15200,4.70
+Taycan Turbo S,Volkswagen Group,Sedan,Luxury,NMC,97.0,590,18.2,18,195000,22000,4290,12.0,4.8,77,Germany,16400,5.10
+Wuling Hongguang Mini EV,SAIC-GM-Wuling,Hatchback,Entry,Sodium-Ion,17.3,170,9.8,45,5200,380000,1976,16.0,4.0,38,China,2500,2.10
+Ariya e-4ORCE,Nissan,SUV,Mass-Premium,NMC,87.0,500,18.1,35,43500,58000,2523,14.8,4.3,51,Japan,12400,4.40
+bZ4X AWD,Toyota,SUV,Mass-Premium,NMC,71.4,416,17.8,38,44400,62000,2752,28.0,4.1,40,Japan,11200,4.10

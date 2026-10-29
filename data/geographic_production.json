@@ -1,0 +1,74 @@
+[
+  {
+    "country": "China",
+    "annualProductionUnits2025": 8450000,
+    "shareOfGlobalProductionPct": 59.8,
+    "annualProductionGrowthPct": 26.5,
+    "batteryCellSupplySharePct": 74.2,
+    "gridCarbonIntensityGCo2PerKwh": 530,
+    "averageManufacturingCostIndex": 65,
+    "exportVolumeUnits2025": 1650000,
+    "keyStrengths": "Dominant upstream and downstream supply chain, gigawatt scale, rapid product iteration cycle, dense domestic component ecosystem",
+    "challenges": "Western tariffs (EU anti-subsidy duties, US Section 301 100% tariffs), domestic price wars, carbon-intensive coal grid in northern provinces"
+  },
+  {
+    "country": "Europe (EU + UK)",
+    "annualProductionUnits2025": 2350000,
+    "shareOfGlobalProductionPct": 16.6,
+    "annualProductionGrowthPct": 11.2,
+    "batteryCellSupplySharePct": 9.5,
+    "gridCarbonIntensityGCo2PerKwh": 240,
+    "averageManufacturingCostIndex": 125,
+    "exportVolumeUnits2025": 380000,
+    "keyStrengths": "Strict Euro 7 & 2035 zero-emission mandate, high consumer purchasing power, lower grid carbon intensity, strong automotive engineering heritage",
+    "challenges": "High industrial energy and labor costs, delayed gigafactory ramp-ups (Northvolt challenges), slow software development compared to tech-first rivals"
+  },
+  {
+    "country": "United States",
+    "annualProductionUnits2025": 1820000,
+    "shareOfGlobalProductionPct": 12.9,
+    "annualProductionGrowthPct": 17.8,
+    "batteryCellSupplySharePct": 8.1,
+    "gridCarbonIntensityGCo2PerKwh": 375,
+    "averageManufacturingCostIndex": 115,
+    "exportVolumeUnits2025": 220000,
+    "keyStrengths": "Inflation Reduction Act (IRA) Section 30D $7,500 tax credits and Section 45X manufacturing subsidies, tech innovation hub, strong commercial truck demand",
+    "challenges": "Political polarization around EV mandates, slower public charging build-out in non-coastal states, high vehicle price points"
+  },
+  {
+    "country": "South Korea",
+    "annualProductionUnits2025": 560000,
+    "shareOfGlobalProductionPct": 4.0,
+    "annualProductionGrowthPct": 14.5,
+    "batteryCellSupplySharePct": 5.4,
+    "gridCarbonIntensityGCo2PerKwh": 415,
+    "averageManufacturingCostIndex": 95,
+    "exportVolumeUnits2025": 410000,
+    "keyStrengths": "Global battery champions (LG Energy Solution, Samsung SDI, SK On), high automation, exceptional export orientation, cutting-edge 800V fast charging",
+    "challenges": "Small domestic market, dependence on raw mineral imports, intensifying competition in European and US export hubs"
+  },
+  {
+    "country": "Japan",
+    "annualProductionUnits2025": 390000,
+    "shareOfGlobalProductionPct": 2.8,
+    "annualProductionGrowthPct": 21.0,
+    "batteryCellSupplySharePct": 2.1,
+    "gridCarbonIntensityGCo2PerKwh": 460,
+    "averageManufacturingCostIndex": 98,
+    "exportVolumeUnits2025": 190000,
+    "keyStrengths": "Panasonic battery cell quality, strong micro-hybrid expertise, solid-state battery patent leadership (Toyota holding 1,300+ patents)",
+    "challenges": "Historical hesitation in pure battery EV transition prioritizing conventional hybrids, slow domestic charging deployment"
+  },
+  {
+    "country": "India",
+    "annualProductionUnits2025": 580000,
+    "shareOfGlobalProductionPct": 4.1,
+    "annualProductionGrowthPct": 42.0,
+    "batteryCellSupplySharePct": 0.7,
+    "gridCarbonIntensityGCo2PerKwh": 630,
+    "averageManufacturingCostIndex": 55,
+    "exportVolumeUnits2025": 75000,
+    "keyStrengths": "Explosive electric 2-wheeler and 3-wheeler adoption, low manufacturing labor costs, government PLI (Production Linked Incentive) scheme",
+    "challenges": "High dependence on imported battery cells, thermal management in 45°C+ ambient temperatures, high grid carbon intensity"
+  }
+]
